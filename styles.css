@@ -1,0 +1,40 @@
+navbar{
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style-type:none;
+    display: flex;
+    justify-content: space-around
+};
+
+.options li{
+    margin: 0 10px;
+    color: white;
+}
+.options li.selected a{
+    color: aqua;
+}
+
+.options li a:hover{
+    color: aqua;
+}
+
+.foto{
+    height: 80px;
+
+}
+
+.class{
+
+}
+
+.options{
+    display: flex;
+    background-color: black;
+    
+}
